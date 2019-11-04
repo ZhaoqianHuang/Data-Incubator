@@ -1,0 +1,2 @@
+### For the daily number of employees and LinkedIn followers of a company, the data can be downloaded via this link: https://us8.mailchimp.com/mctx/click?url=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fdocuments.thinknum.com%2Fdataset_dump%2Fflikerqvnk%2Ftemp_datalab_records_linkedin_company.zip&xid=fe7824d9e0&uid=29791003&pool=&subject=
+### For the daily stock price, the data can be obtained in Quandl: https://www.quandl.com/data/EOD-End-of-Day-US-Stock-Prices?keyword=
